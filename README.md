@@ -17,29 +17,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/07-priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srivas-divyansh" height="30" width="40" /></a>
-<a href="https://kaggle.com/07-priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srivas-divyansh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/priyanshur07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srivas_divyans" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/07-priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srivas_divyansh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/07-priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srivas-divyansh" height="30" width="40" /></a>
-<a href="https://discord.gg/07priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="srivas_divyansh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/07-priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="07-priyanshu" height="30" width="40" /></a>
+<a href="https://kaggle.com/07-priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="07-priyanshu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/priyanshur07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="07-priyanshu" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/07-priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="07-priyanshu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/07-priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="07-priyanshu" height="30" width="40" /></a>
+<a href="https://discord.gg/07priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="07-priyanshu" height="30" width="40" /></a>
 </p>
 
 
-
-
-</br>
-
-## GSSOC'24 Badges
-
-<div style='display:flex; align-items:center; gap: 10px;' align='center' >
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=07-priyanshu&show_icons=true&locale=en" alt="07-priyanshu" /></p>
 
